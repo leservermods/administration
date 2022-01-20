@@ -1,30 +1,30 @@
 Formatted as per the v5.0-alpha.4 Modget spec (soon:tm:)
 
-- anti-xray-mc1.18-1.1.2.jar
-- antishulkerdupe-1.0.0.jar
-- banhammer-0.4.2+1.18.jar
-- bettersleeping-0.5.1+1.18.jar
+- [AntiXray](https://modrinth.com/mod/anti-xray)
+- [AntiShulkerDupe](https://modrinth.com/mod/antishulkerdupe)
+- [BanHammer](https://modrinth.com/mod/banhammer)
+- [BetterSleeping Revived](https://modrinth.com/mod/bettersleeping-revived)
 - carpet-tis-addition-mc1.18.1-v1.27.2.jar
-- fabric-api-0.44.0+1.18.jar
+- [Fabric API](https://modrinth.com/mod/fabric-api)
 - fabric-carpet-1.18-1.4.56+v211130.jar
 - Fabric-Discord-Link-0.10.1.jar
-- fabric-language-kotlin-1.7.1+kotlin.1.6.10.jar
-- fabrictailor-1.7.2.jar
-- ferritecore-4.0.0-fabric.jar
-- Harvest-fabric-1.16.1-1.0.1.jar
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+- [Fabric Tailor](https://modrinth.com/mod/fabrictailor)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- Harvest-fabric-1.16.1-1.0.1.jar (which one?)
 - InvView-1.4.7-1.18-rc3+.jar
-- KeepHeadNames-1.4-1.18.jar
-- lazydfu-0.1.2.jar
+- [Keep Head Names](https://modrinth.com/mod/keepheadnames)
+- [LazyDFU](https://modrinth.com/mod/lazydfu)
 - ledger-1.2.0.jar
-- lithium-fabric-mc1.18.1-0.7.6.jar
+- [Lithium](https://modrinth.com/mod/lithium)
 - minimotd-fabric-mc1.18-2.0.5.jar
-- modget-minecraft-0.4.3+1.17.jar
+- [Modget](https://modrinth.com/mod/modget)
 - mods-command-mc1.18-1.0.5.jar
 - notenoughcrashes-4.1.3+1.18-fabric.jar
-- recipecache-0.2.1-1.17.1.jar
-- Server-Translations-1.4.8+1.18-pre1.jar
+- [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache)
+- [Server Translations](https://www.curseforge.com/minecraft/mc-mods/server-translations)
 - servertick-mc1.18-1.6.jar
-- starlight-1.0.0+fabric.d0a3220.jar
+- [Starlight](https://modrinth.com/mod/starlight)
 - styledplayerlist-2.1.3+1.18.jar
 - timeoutout-1.0.0+1.18.jar
 - viafabric-0.4.5+244-main.jar.disabled
