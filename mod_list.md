@@ -11,7 +11,7 @@ Formatted as per the v5.0-alpha.4 Modget spec (soon:tm:)
 - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Fabric Tailor](https://modrinth.com/mod/fabrictailor)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
-- Harvest-fabric-1.16.1-1.0.1.jar (which one?)
+- [SimplerHarvest](https://www.curseforge.com/minecraft/mc-mods/simplerharvest)
 - InvView-1.4.7-1.18-rc3+.jar
 - [Keep Head Names](https://modrinth.com/mod/keepheadnames)
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
