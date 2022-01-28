@@ -1,4 +1,4 @@
-Formatted as per the v5.0-alpha.4 Modget spec (soon:tm:)
+Formatted as per the v5.0 Modget spec (soon:tm:)
 
 - [AntiXray](https://modrinth.com/mod/anti-xray)
 - [AntiShulkerDupe](https://modrinth.com/mod/antishulkerdupe)
