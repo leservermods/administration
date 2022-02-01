@@ -1,6 +1,6 @@
 Formatted as per the v5.0 Modget spec (soon:tm:)
 
-- [AntiXray](https://modrinth.com/mod/anti-xray)
+- [DrexHD.antixray](https://modrinth.com/mod/anti-xray)
 - [AntiShulkerDupe](https://modrinth.com/mod/antishulkerdupe)
 - [BanHammer](https://modrinth.com/mod/banhammer)
 - [BetterSleeping Revived](https://modrinth.com/mod/bettersleeping-revived)
