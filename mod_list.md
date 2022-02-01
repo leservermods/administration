@@ -1,7 +1,7 @@
 Formatted as per the v5.0 Modget spec (soon:tm:)
 
 - [DrexHD.antixray](https://modrinth.com/mod/anti-xray)
-- [AntiShulkerDupe](https://modrinth.com/mod/antishulkerdupe)
+- [PotatoPresident.antishulkerdupe](https://modrinth.com/mod/antishulkerdupe)
 - [BanHammer](https://modrinth.com/mod/banhammer)
 - [BetterSleeping Revived](https://modrinth.com/mod/bettersleeping-revived)
 - carpet-tis-addition-mc1.18.1-v1.27.2.jar
