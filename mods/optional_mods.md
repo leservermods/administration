@@ -1,6 +1,7 @@
 # List of *optional* mods leserver has installed
 
 Mod | Version
+:---: | :---:
 [FabricTailor](https://modrinth.com/mod/fabrictailor) | [v1.8.1](https://modrinth.com/mod/fabrictailor/version/1.8.1)
 [ServerTick](https://modrinth.com/mod/servertick) | [v1.6](https://modrinth.com/mod/servertick/version/1.6)
 [SimpleVoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) | [v1.18.2-2.2.31](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3710533)
