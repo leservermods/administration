@@ -4,6 +4,8 @@
 
 Required means that you *must* install these mods to join the server. If you don't install these mods, you *might* still be able to join, but you won't get the full experience and your client will crash when it encounters modded items/blocks.
 
+## The list
+
 Mod | Version | Requires
 :---: | :---: | :---:
 [Consistency+](https://modrinth.com/mod/consistencyplus) | [v0.5.0-RC2+1.18.2](https://modrinth.com/mod/consistencyplus/version/0.5.0-RC2+Fabric-1.18.2) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* <br> [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/all)**
