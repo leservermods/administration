@@ -5,6 +5,8 @@
 
 Recommended is a special category that doesn't have anything to do with leserver in particular, and more with the Minecraft experience in general. Here you can find some mods that I recommend for a better Minecraft experience.
 
+## The list
+
 | Mod | Note |
 | :---: | :--- |
 | [Fabric API](https://modrinth.com/mod/fabric-api/versions) | Required for mods mods |
