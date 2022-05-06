@@ -13,3 +13,7 @@ Mod | Version | Requires
 [SimpleVoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) | [v1.18.2-2.2.31](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/3710533) | -
 
 \* Find a version for 1.18.2 (Under `Supports` it should say `1.18.2`)
+
+## Notes
+
+If you have already installed ***any*** of the mods here for `1.18.2` *and* they are the correct versions (only applies if a specific version is provided here) *and* they are working, then there's no need to reinstall anything.
