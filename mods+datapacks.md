@@ -1,3 +1,5 @@
+### NOTE: POSSIBLY OUTDATED
+
 # Mods used by leserver
 
 * <https://github.com/astei/lazydfu/releases>
