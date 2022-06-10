@@ -1,42 +1,44 @@
-### NOTE: POSSIBLY OUTDATED
-
 # Mods used by leserver
 
-* <https://github.com/astei/lazydfu/releases>
-* <https://github.com/CaffeineMC/lithium-fabric/releases>
-* <https://modrinth.com/mod/discerning-furnace/versions>
-* <https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/all>
-* <https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link/files/all>
-* <https://modrinth.com/mod/fabriccrossdimtpfix/versions>
-* <https://github.com/FabricMC/fabric/releases>
-* <https://modrinth.org/mod/sit/versions>
-* <https://modrinth.org/mod/ferrite-core/versions>
-* <https://www.curseforge.com/minecraft/mc-mods/carpet-tis-addition/files/all>
-* <https://www.curseforge.com/minecraft/mc-mods/recipe-cache/files/all>
-* <https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/all>
-* <https://github.com/Patbox/BanHammer/releases>
-* <https://github.com/QuiltServerTools/Ledger/releases>
-* <https://github.com/gnembon/fabric-carpet/releases>
-* <https://modrinth.org/mod/golfiv/versions> (DISABLED)
-* <https://github.com/Heart-of-the-Machine/dimension-update-fixer/releases> !Not for 1.17.x (yet?) (DISABLED)
-* <https://modrinth.org/mod/hydrogen/versions>
-* <https://www.curseforge.com/minecraft/mc-mods/i-am-very-smart/files/all> !Not for 1.17.x (yet?) !We now use a datapack for the same function
-* <https://github.com/jpenilla/MiniMOTD/releases>
-* <https://modrinth.com/mod/keepheadnames/versions>
-* <https://modrinth.org/mod/krypton/versions>
-* <https://modrinth.org/mod/mods-command/versions>
-* <https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes/files/all>
-* <https://github.com/samolego/FabricTailor/releases>
-* <https://modrinth.org/mod/servertick/versions>
-* <https://modrinth.org/mod/styledplayerlist/versions>
-* <https://modrinth.com/mod/starlight>
-* <https://modrinth.com/mod/wires/versions>
-* <https://modrinth.org/mod/worldspecificviewdistance/versions>
-* <https://modrinth.com/mod/bfapi/versions>
-* <https://github.com/NikitaCartes/EasyAuth/releases>
-* <https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack/files/3779084>
+| Name | Links | Notes |
+| :-: | :-: | :-: |
+| AntiXray | [Modrinth](https://modrinth.com/mod/anti-xray) | - |
+| AntiShulkerDupe | [Modrinth](https://modrinth.com/mod/antishulkerdupe) | - |
+| Architectury API | [Modrinth](https://modrinth.com/mod/architectury-api) | - |
+| BanHammer | [Modrinth](https://modrinth.com/mod/banhammer) | - |
+| BetterSleeping Revived | [Modrinth](https://modrinth.com/mod/bettersleeping-revived) | - |
+| Carpet TIS Addition | [Modrinth](https://modrinth.com/mod/carpet-tis-addition) | - |
+| Cloth Config API | [Modrinth](https://modrinth.com/mod/cloth-config) | - |
+| Consistency+ | [Modrinth](https://modrinth.com/mod/consistencyplus) | - |
+| EasyWhitelist | [Modrinth](https://modrinth.com/mod/easywhitelist) | - |
+| Fabric API | [Modrinth](https://modrinth.com/mod/fabric-api) | - |
+| Carpet | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/carpet) | - |
+| Fabric-Discord-Link | [Modrinth](https://modrinth.com/mod/fabric-discord-link) | - |
+| Fabric Language Kotlin | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin) | - |
+| Fabric Tailor | [Modrinth](https://modrinth.com/mod/fabrictailor) | - |
+| FerriteCore | [Modrinth](https://modrinth.com/mod/ferrite-core) | - |
+| Global Packs | [Modrinth](https://modrinth.com/mod/globalpacks) | - |
+| Inv View | [Modrinth](https://modrinth.com/mod/invview) | - |
+| Keep Head Names | [Modrinth](https://modrinth.com/mod/keepheadnames) | - |
+| Krypton | [Modrinth](https://modrinth.com/mod/krypton) | - |
+| LazyDFU | [Modrinth](https://modrinth.com/mod/lazydfu) | - |
+| Ledger | [Modrinth](https://modrinth.com/mod/ledger) | - |
+| Lithium | [Modrinth](https://modrinth.com/mod/lithium) | - |
+| LuckPerms | [Modrinth](https://modrinth.com/mod/luckperms) | - |
+| MiniMOTD | [Modrinth](https://modrinth.com/mod/minimotd) | - |
+| Mods Command | [Modrinth](https://modrinth.com/mod/mods-command) | - |
+| Recipe Cache | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) | - |
+| Right-Click-Harvest | [Modrinth](https://modrinth.com/mod/right-click-harvest) | - |
+| Server-Translations | [GitHub](https://github.com/NucleoidMC/Server-Translations) | - |
+| Server Tick | [Modrinth](https://modrinth.com/mod/servertick) | - |
+| Starlight | [Modrinth](https://modrinth.com/mod/starlight) | - |
+| Styled Chat | [Modrinth](https://modrinth.com/mod/styled-chat) | Testing pending | - |
+| Styled Player List | [Modrinth](https://modrinth.com/mod/styledplayerlist) | - |
+| TimeOutOut | [Modrinth](https://modrinth.com/mod/timeoutout) | - |
+| Simple Voice Chat | [Modrinth](https://modrinth.com/mod/simple-voice-chat) | - |
+| Polysit | [Modrinth](https://modrinth.com/mod/polysit) | Testing pending | - |
 
-# Datapacks used by leserver
+# Datapacks used by leserver - Notice: Section might be outdated
 
 ## VanillaTweaks datapacks
 
@@ -60,7 +62,7 @@
 * XP Management
 * Confetti Creepers
 
-# Links to the datapack websites
+# Links to datapack websites
 
 * <https://vanillatweaks.net/picker/datapacks/>
 * <http://mc.voodoobeard.com/>
