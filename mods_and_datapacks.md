@@ -32,11 +32,11 @@
 | Server-Translations | [GitHub](https://github.com/NucleoidMC/Server-Translations) | - |
 | Server Tick | [Modrinth](https://modrinth.com/mod/servertick) | - |
 | Starlight | [Modrinth](https://modrinth.com/mod/starlight) | - |
-| Styled Chat | [Modrinth](https://modrinth.com/mod/styled-chat) | Testing pending | - |
+| Styled Chat | [Modrinth](https://modrinth.com/mod/styled-chat) | Testing pending |
 | Styled Player List | [Modrinth](https://modrinth.com/mod/styledplayerlist) | - |
 | TimeOutOut | [Modrinth](https://modrinth.com/mod/timeoutout) | - |
 | Simple Voice Chat | [Modrinth](https://modrinth.com/mod/simple-voice-chat) | - |
-| Polysit | [Modrinth](https://modrinth.com/mod/polysit) | Testing pending | - |
+| Polysit | [Modrinth](https://modrinth.com/mod/polysit) | - |
 
 # Datapacks used by leserver - Notice: Section might be outdated
 
