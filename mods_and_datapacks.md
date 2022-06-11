@@ -37,6 +37,7 @@
 | TimeOutOut | [Modrinth](https://modrinth.com/mod/timeoutout) | - |
 | Simple Voice Chat | [Modrinth](https://modrinth.com/mod/simple-voice-chat) | - |
 | Polysit | [Modrinth](https://modrinth.com/mod/polysit) | - |
+| Polymer | [Modrinth](https://modrinth.com/mod/polymer) | - |
 
 # Datapacks used by leserver - Notice: Section might be outdated
 
