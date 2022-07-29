@@ -13,7 +13,7 @@
 | EasyWhitelist | [Modrinth](https://modrinth.com/mod/easywhitelist) | - |
 | Fabric API | [Modrinth](https://modrinth.com/mod/fabric-api) | - |
 | Carpet | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/carpet) | - |
-| Fabric-Discord-Link | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-discord-link) | - |
+| Simple Discord Link | [Modrinth](https://modrinth.com/mod/sdlink/versions) | - |
 | Fabric Language Kotlin | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin) | - |
 | Fabric Tailor | [Modrinth](https://modrinth.com/mod/fabrictailor) | - |
 | FerriteCore | [Modrinth](https://modrinth.com/mod/ferrite-core) | - |
