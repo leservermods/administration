@@ -38,6 +38,10 @@
 | Simple Voice Chat | [Modrinth](https://modrinth.com/mod/simple-voice-chat) | - |
 | Polysit | [Modrinth](https://modrinth.com/mod/polysit) | - |
 | Polymer | [Modrinth](https://modrinth.com/mod/polymer) | - |
+| Universal Ores | [Modrinth](https://modrinth.com/mod/universal_ores) | - |
+| Dawn API | [Modrinth](https://modrinth.com/mod/dawn/versions) | - |
+| Modern Glass Doors | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/files) | - |
+| Patterned Glass | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/patterned-glass) | - |
 
 # Datapacks used by leserver - Notice: Section might be outdated
 
