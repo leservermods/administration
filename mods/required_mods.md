@@ -6,12 +6,12 @@ Required means that you *must* install these mods to join the server. If you don
 
 ## The list
 
-Mod | Version | Requires
-:---: | :---: | :---:
-[Consistency+](https://modrinth.com/mod/consistencyplus) | [v0.5.1+1.18.2](https://modrinth.com/mod/consistencyplus/version/0.5.1%2BFabric-1.18.2)\*\*\* | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* <br> [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/all)**
-[Universal Ores](https://modrinth.com/mod/universal_ores) | [v1.3.1](https://modrinth.com/mod/universal_ores/version/1.3.1) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* <br> [Dawn API](https://modrinth.com/mod/dawn/versions)*
-[Modern Glass Doors](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors) | [v2.1.0+1.18](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/files/3652303) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)*
-[Patterned Glass](https://www.curseforge.com/minecraft/mc-mods/patterned-glass) | [v2.0.1+1.18](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/files/3647402) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)*
+Mod | Version | Requires | Updated since last time?
+:---: | :---: | :---: | :---:
+[Consistency+](https://modrinth.com/mod/consistencyplus) | [v0.5.1+1.18.2](https://modrinth.com/mod/consistencyplus/version/0.5.1%2BFabric-1.18.2)\*\*\* | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* <br> [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/all)** | ✔️
+[Universal Ores](https://modrinth.com/mod/universal_ores) | [v1.3.1](https://modrinth.com/mod/universal_ores/version/1.3.1) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* <br> [Dawn API](https://modrinth.com/mod/dawn/versions)* | ❌
+[Modern Glass Doors](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors) | [v2.1.0+1.18](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/files/3652303) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* | ❌
+[Patterned Glass](https://www.curseforge.com/minecraft/mc-mods/patterned-glass) | [v2.0.1+1.18](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/files/3647402) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* | ❌
 
 
 \*Find a version for 1.18.2 (Under `Supports` it should say `1.18.2`) <br>
