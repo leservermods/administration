@@ -43,17 +43,14 @@
 | Modern Glass Doors | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/files) | - |
 | Patterned Glass | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/files) | - |
 
-# Datapacks used by leserver - Notice: Section might be outdated
+# Datapacks used by leserver
 
 ## VanillaTweaks datapacks
 
-<https://vanillatweaks.net/share#VR5QyZ>
-
-1\.18: <https://vanillatweaks.net/share#LWWGxL>
+1\.18: <https://vanillatweaks.net/share#31K2xZ>
 
 * Unlock All Recipes
 * Fast Leaf Decay
-* Multiplayer Sleep
 * Custom Nether Portals
 * Durability Ping
 * Track Raw Statistics
@@ -64,6 +61,7 @@
 * Workstation Highlights
 * Player Head Drops
 * More Mob Heads
+* Wandering Trades
 * XP Management
 * Confetti Creepers
 
