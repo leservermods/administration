@@ -47,8 +47,9 @@
 
 ## VanillaTweaks datapacks
 
-1\.18: <https://vanillatweaks.net/share#31K2xZ>
+1\.18: <https://vanillatweaks.net/share#0t2gCd>
 
+* Armor Statues
 * Unlock All Recipes
 * Fast Leaf Decay
 * Custom Nether Portals
