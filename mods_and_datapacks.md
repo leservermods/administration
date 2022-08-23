@@ -42,6 +42,7 @@
 | Dawn API | [Modrinth](https://modrinth.com/mod/dawn/versions) | - |
 | Modern Glass Doors | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/files) | - |
 | Patterned Glass | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/files) | - |
+| Dynmap | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files) | - |
 
 # Datapacks used by leserver
 
