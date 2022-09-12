@@ -10,13 +10,15 @@
 | Carpet TIS Addition | [Modrinth](https://modrinth.com/mod/carpet-tis-addition/versions) | - |
 | Cloth Config API | [Modrinth](https://modrinth.com/mod/cloth-config/versions) | - |
 | Consistency+ | [Modrinth](https://modrinth.com/mod/consistencyplus/versions) | - |
+| Dawn API | [Modrinth](https://modrinth.com/mod/dawn/versions) | - |
+| Dynmap | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files) | - |
 | EasyWhitelist | [Modrinth](https://modrinth.com/mod/easywhitelist/versions) | - |
-| Fabric API | [Modrinth](https://modrinth.com/mod/fabric-api/versions) | - |
+| Fabric API | [Modrinth](https://modrinth.com/mod/fabric-api/versions) | disabled as we are on Quilt |
 | Carpet | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/carpet/files) | - |
-| Simple Discord Link | [Modrinth](https://modrinth.com/mod/sdlink/versions) | - |
 | Fabric Language Kotlin | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin/versions) | - |
 | Fabric Tailor | [Modrinth](https://modrinth.com/mod/fabrictailor/versions) | - |
 | FerriteCore | [Modrinth](https://modrinth.com/mod/ferrite-core/versions) | - |
+| Modern Glass Doors | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/files) | - |
 | Global Packs | [Modrinth](https://modrinth.com/mod/globalpacks/versions) | - |
 | Inv View | [Modrinth](https://modrinth.com/mod/invview/versions) | - |
 | Keep Head Names | [Modrinth](https://modrinth.com/mod/keepheadnames/versions) | - |
@@ -24,25 +26,25 @@
 | LazyDFU | [Modrinth](https://modrinth.com/mod/lazydfu/versions) | - |
 | Ledger | [Modrinth](https://modrinth.com/mod/ledger/versions) | - |
 | Lithium | [Modrinth](https://modrinth.com/mod/lithium/versions) | - |
-| LuckPerms | [Modrinth](https://modrinth.com/mod/luckperms/versions) | - |
+| LuckPerms | [Modrinth](https://modrinth.com/mod/luckperms/versions) | disabled as borked on 1.19.2 |
 | MiniMOTD | [Modrinth](https://modrinth.com/mod/minimotd/versions) | - |
 | Mods Command | [Modrinth](https://modrinth.com/mod/mods-command/versions) | - |
+| No Chat Reports | [Modrinth](https://modrinth.com/mod/no-chat-reports/versions) | - |
+| Patterned Glass | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/files) | - |
+| Polymer | [Modrinth](https://modrinth.com/mod/polymer/versions) | - |
+| Polysit | [Modrinth](https://modrinth.com/mod/polysit/versions) | - |
+| Quilted Fabric API / Quilt Standard Libraries | [Modrinth](https://modrinth.com/mod/qsl/versions) | - |
 | Recipe Cache | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/recipe-cache/files) | - |
 | Right-Click-Harvest | [Modrinth](https://modrinth.com/mod/right-click-harvest/versions) | - |
 | Server-Translations | [GitHub](https://github.com/NucleoidMC/Server-Translations/releases) | - |
 | Server Tick | [Modrinth](https://modrinth.com/mod/servertick/versions) | - |
+| Simple Discord Link | [Modrinth](https://modrinth.com/mod/sdlink/versions) | temporarily disabled as something is borked |
 | Starlight | [Modrinth](https://modrinth.com/mod/starlight/versions) | - |
 | Styled Chat | [Modrinth](https://modrinth.com/mod/styled-chat/versions) | Testing pending |
 | Styled Player List | [Modrinth](https://modrinth.com/mod/styledplayerlist/versions) | - |
 | TimeOutOut | [Modrinth](https://modrinth.com/mod/timeoutout/versions) | - |
-| Simple Voice Chat | [Modrinth](https://modrinth.com/mod/simple-voice-chat/versions) | - |
-| Polysit | [Modrinth](https://modrinth.com/mod/polysit/versions) | - |
-| Polymer | [Modrinth](https://modrinth.com/mod/polymer/versions) | - |
 | Universal Ores | [Modrinth](https://modrinth.com/mod/universal_ores/versions) | - |
-| Dawn API | [Modrinth](https://modrinth.com/mod/dawn/versions) | - |
-| Modern Glass Doors | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/files) | - |
-| Patterned Glass | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/files) | - |
-| Dynmap | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files) | - |
+| Simple Voice Chat | [Modrinth](https://modrinth.com/mod/simple-voice-chat/versions) | - |
 
 # Datapacks used by leserver
 
