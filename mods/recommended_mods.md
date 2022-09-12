@@ -19,6 +19,6 @@ Recommended is a special category that doesn't have anything to do with leserver
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | Reduces the memory (RAM) usage |
 | [Phosphor](https://modrinth.com/mod/phosphor) | For better lighting performance
 
-Note: You need to find the versions for 1.18.2 for the above mods (Under `Supports` it should say `1.18.2`)
+Note: You need to find the versions for 1.18.2 for the above mods (Under `Supports` it should say `1.19.2`)
 
-\*Find a version for 1.18.2 (Under `Game Version` it should say `1.18.2`; also, if there is a +1/+2/+3/etc. next to the version under `Game Version`, hover over the +1/+2/+3/etc. to see all the versions the pack supports)
+\*Find a version for 1.19.2 (Under `Game Version` it should say `1.19.2`; also, if there is a +1/+2/+3/etc. next to the version under `Game Version`, hover over the +1/+2/+3/etc. to see all the versions the pack supports)
