@@ -48,7 +48,7 @@
 
 ## VanillaTweaks datapacks
 
-1\.18: <https://vanillatweaks.net/share#wrIVqu>
+1\.19: <https://vanillatweaks.net/share#0t2gCd>
 
 * Armor Statues
 * Unlock All Recipes
