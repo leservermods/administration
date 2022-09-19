@@ -38,13 +38,14 @@
 | Right-Click-Harvest | [Modrinth](https://modrinth.com/mod/right-click-harvest/versions) | - |
 | Server-Translations | [GitHub](https://github.com/NucleoidMC/Server-Translations/releases) | - |
 | Server Tick | [Modrinth](https://modrinth.com/mod/servertick/versions) | - |
-| Simple Discord Link | [Modrinth](https://modrinth.com/mod/sdlink/versions) | temporarily disabled as something is borked |
+| Simple Discord Link | [Modrinth](https://modrinth.com/mod/sdlink/versions) | temporarily disabled as something is wrong |
 | Starlight | [Modrinth](https://modrinth.com/mod/starlight/versions) | - |
 | Styled Chat | [Modrinth](https://modrinth.com/mod/styled-chat/versions) | Testing pending |
 | Styled Player List | [Modrinth](https://modrinth.com/mod/styledplayerlist/versions) | - |
 | TimeOutOut | [Modrinth](https://modrinth.com/mod/timeoutout/versions) | - |
 | Universal Ores | [Modrinth](https://modrinth.com/mod/universal_ores/versions) | - |
 | Simple Voice Chat | [Modrinth](https://modrinth.com/mod/simple-voice-chat/versions) | - |
+| Image2Map | [Modrinth](https://modrinth.com/mod/image2map/versions) | - |
 
 # Datapacks used by leserver
 
