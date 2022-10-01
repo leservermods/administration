@@ -14,24 +14,24 @@ Following this you will see two lists, for two different modloaders! ***You only
 
 ### List for the *Fabric* modloader
 
-Mod | Version | Requires | Updated since last time?
+Mod | Version (click to download) | Required by (mod) | Updated since last time?
 :---: | :---: | :---: | :---:
-[Consistency+](https://modrinth.com/mod/consistencyplus) | [v0.5.1](https://cdn.modrinth.com/data/nDHcEOt3/versions/8m4kuYXT/consistency_plus-fabric-0.5.1%2B1.19.2.jar) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* <br> [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/all)** | ✔️
-[Universal Ores](https://modrinth.com/mod/universal_ores) | [v1.4.2](https://cdn.modrinth.com/data/68kWHuUF/versions/1.4.2/universal_ores-1.4.2.jar) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* <br> [Dawn API](https://modrinth.com/mod/dawn/versions)* | ✔️
-[Modern Glass Doors](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors) | [v3.1.0](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/download/3930159) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* | ✔️
-[Patterned Glass](https://www.curseforge.com/minecraft/mc-mods/patterned-glass) | [v3.0.0](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/download/3826703) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* | ✔️
-
-\* Find a version for 1.19.2 (Under `Supports` it should say `1.19.2`) <br>
-\*\* Find a version for 1.19.2 (Under `Game Version` it should say `1.19.2`; also, if there is a +1/+2/+3/etc. next to the thing under `Game Version`, hover over the +1/+2/+3/etc. to see all the versions the mod supports) <br>
+[Consistency+](https://modrinth.com/mod/consistencyplus) | [v0.5.1](https://cdn.modrinth.com/data/nDHcEOt3/versions/8m4kuYXT/consistency_plus-fabric-0.5.1%2B1.19.2.jar) |  | ✔️
+[Universal Ores](https://modrinth.com/mod/universal_ores) | [v1.4.2](https://cdn.modrinth.com/data/68kWHuUF/versions/1.4.2/universal_ores-1.4.2.jar) |  | ✔️
+[Modern Glass Doors](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors) | [v3.1.0](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/download/3930159) |  | ✔️
+[Patterned Glass](https://www.curseforge.com/minecraft/mc-mods/patterned-glass) | [v3.0.0](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/download/3826703) |  | ✔️
+[Fabric API](https://modrinth.com/mod/fabric-api) | [v0.62.0](https://cdn.modrinth.com/data/P7dR8mSH/versions/uLpYu4FP/fabric-api-0.62.0%2B1.19.2.jar) | most mods | ✔️
+[Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [v6.2.46](https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/3984016/file) | Consistency+ | ✔️
+[Dawn API](https://modrinth.com/mod/dawn) | [v3.5.0](https://cdn.modrinth.com/data/meZK2DCX/versions/3.5.0/dawn-3.5.0.jar) | Universal Ores | ✔️
 
 ### List for the *Quilt* modloader
 
-Mod | Version | Requires | Updated since last time?
+Mod | Version (click to download) | Required by (mod) | Updated since last time?
 :---: | :---: | :---: | :---:
-[Consistency+](https://modrinth.com/mod/consistencyplus) | [v0.5.1](https://cdn.modrinth.com/data/nDHcEOt3/versions/8m4kuYXT/consistency_plus-fabric-0.5.1%2B1.19.2.jar) | [QFAPI / QSL](https://modrinth.com/mod/qsl/versions)* <br> [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/all)** | ✔️
-[Universal Ores](https://modrinth.com/mod/universal_ores) | [v1.4.2](https://cdn.modrinth.com/data/68kWHuUF/versions/1.4.2/universal_ores-1.4.2.jar) | [QFAPI / QSL](https://modrinth.com/mod/qsl/versions)* <br> [Dawn API](https://modrinth.com/mod/dawn/versions)* | ✔️
-[Modern Glass Doors](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors) | [v3.1.0](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/download/3930159) | [QFAPI / QSL](https://modrinth.com/mod/qsl/versions)* | ✔️
-[Patterned Glass](https://www.curseforge.com/minecraft/mc-mods/patterned-glass) | [v3.0.0](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/download/3826703) | [QFAPI / QSL](https://modrinth.com/mod/qsl/versions)* | ✔️
-
-\* Find a version for 1.19.2 (Under `Supports` it should say `1.19.2`) <br>
-\*\* Find a version for 1.19.2 (Under `Game Version` it should say `1.19.2`; also, if there is a +1/+2/+3/etc. next to the thing under `Game Version`, hover over the +1/+2/+3/etc. to see all the versions the mod supports) <br>
+[Consistency+](https://modrinth.com/mod/consistencyplus) | [v0.5.1](https://cdn.modrinth.com/data/nDHcEOt3/versions/8m4kuYXT/consistency_plus-fabric-0.5.1%2B1.19.2.jar) |  | ✔️
+[Universal Ores](https://modrinth.com/mod/universal_ores) | [v1.4.2](https://cdn.modrinth.com/data/68kWHuUF/versions/1.4.2/universal_ores-1.4.2.jar) |  | ✔️
+[Modern Glass Doors](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors) | [v3.1.0](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/download/3930159) |  | ✔️
+[Patterned Glass](https://www.curseforge.com/minecraft/mc-mods/patterned-glass) | [v3.0.0](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/download/3826703) |  | ✔️
+[Quilted Fabric API and Quilt Standard Libraries](https://modrinth.com/mod/qsl) | [QFAPIv4.0.0-beta.13 & QSLv3.0.0-beta.16](https://cdn.modrinth.com/data/qvIfYCYJ/versions/RMRJccdH/quilted-fabric-api-4.0.0-beta.13%2B0.62.0-1.19.2.jar) | most mods | ✔️
+[Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [v6.2.46](https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/3984016/file) | Consistency+ | ✔️
+[Dawn API](https://modrinth.com/mod/dawn) | [v3.5.0](https://cdn.modrinth.com/data/meZK2DCX/versions/3.5.0/dawn-3.5.0.jar) | Universal Ores | ✔️
