@@ -17,6 +17,7 @@ Mod | Version | Requires | Updated since last time?
 [Right-Click-Harvest](https://modrinth.com/mod/right-click-harvest) | [v1.2.0](https://cdn.modrinth.com/data/xQgFileM/versions/1.2.0+1.19/right-click-harvest-1.2.0%2B1.19-fabric.jar) | [QFAPI / QSL](https://modrinth.com/mod/qsl/versions)* & \*\* <br> [Cloth Config API](https://modrinth.com/mod/cloth-config/versions)* | ✔️
 [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | [v1.11.2](https://cdn.modrinth.com/data/qQyHxfxd/versions/OrXrGI5d/NoChatReports-FABRIC-1.19.2-v1.11.2.jar) | - | ✔️
 [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) | [v1.4.83](https://www.curseforge.com/minecraft/mc-mods/carpet/download/3902746) | - | ✔️
+[Raknetify](https://modrinth.com/mod/raknetify) | [v0.1.0+alpha.5.15](https://cdn.modrinth.com/data/5IovSY3u/versions/9vH1TfL3/raknetify-fabric-0.1.0%2Balpha.5.15-all.jar) | - | ✔️
 
 ## Fabric list (Fabric)
 
@@ -28,6 +29,7 @@ Mod | Version | Requires | Updated since last time?
 [Right-Click-Harvest](https://modrinth.com/mod/right-click-harvest) | [v1.2.0](https://cdn.modrinth.com/data/xQgFileM/versions/1.2.0+1.19/right-click-harvest-1.2.0%2B1.19-fabric.jar) | [Fabric API](https://modrinth.com/mod/fabric-api/versions)* <br> [Cloth Config API](https://modrinth.com/mod/cloth-config/versions)* | ✔️
 [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | [v1.11.2](https://cdn.modrinth.com/data/qQyHxfxd/versions/OrXrGI5d/NoChatReports-FABRIC-1.19.2-v1.11.2.jar) | - | ✔️
 [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) | [v1.4.83](https://www.curseforge.com/minecraft/mc-mods/carpet/download/3902746) | - | ✔️
+[Raknetify](https://modrinth.com/mod/raknetify) | [v0.1.0+alpha.5.15](https://cdn.modrinth.com/data/5IovSY3u/versions/9vH1TfL3/raknetify-fabric-0.1.0%2Balpha.5.15-all.jar) | - | ✔️
 
 \* Find a version for 1.19.2 (Under `Supports` it should say `1.19.2` or `1.19.x`) <br>
 \*\* `QFAPI` - Quilted Fabric API; `QSL` - Quilt Standard Libraries; both come in the same mod <br>
