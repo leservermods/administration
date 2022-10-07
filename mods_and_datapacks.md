@@ -46,6 +46,7 @@
 | Universal Ores | [Modrinth](https://modrinth.com/mod/universal_ores/versions) | - |
 | Simple Voice Chat | [Modrinth](https://modrinth.com/mod/simple-voice-chat/versions) | - |
 | Image2Map | [Modrinth](https://modrinth.com/mod/image2map/versions) | - |
+| Raknetify | [Modrinth](https://modrinth.com/mod/raknetify) | - |
 
 # Datapacks used by leserver
 
