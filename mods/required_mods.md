@@ -19,7 +19,7 @@ Mod | Version (click to download) | Required by (mod) | Updated since last time?
 [Consistency+](https://modrinth.com/mod/consistencyplus) | [v0.5.1](https://cdn.modrinth.com/data/nDHcEOt3/versions/8m4kuYXT/consistency_plus-fabric-0.5.1%2B1.19.2.jar) |  | ❌
 [Universal Ores](https://modrinth.com/mod/universal_ores) | [v1.4.2](https://cdn.modrinth.com/data/68kWHuUF/versions/1.4.2/universal_ores-1.4.2.jar) |  | ❌
 [Modern Glass Doors](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors) | [v3.1.0](https://www.curseforge.com/minecraft/mc-mods/modern-glass-doors/download/3930159) |  | ❌
-[Patterned Glass](https://www.curseforge.com/minecraft/mc-mods/patterned-glass) | [v3.1.0](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/download/4360172/file) |  | ✔️
+[Patterned Glass](https://www.curseforge.com/minecraft/mc-mods/patterned-glass) | [v3.1.0](https://www.curseforge.com/minecraft/mc-mods/patterned-glass/download/4173756/file) |  | ✔️
 [Fabric API](https://modrinth.com/mod/fabric-api) | [v0.70.0](https://cdn.modrinth.com/data/P7dR8mSH/versions/mrB7EiW4/fabric-api-0.70.0%2B1.19.2.jar) | most mods | ✔️
 [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-api) | [v6.5.77](https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/4476083/file) | Consistency+ | ✔️
 [Dawn API](https://modrinth.com/mod/dawn) | [v3.5.0](https://cdn.modrinth.com/data/meZK2DCX/versions/3.5.0/dawn-3.5.0.jar) | Universal Ores | ❌
